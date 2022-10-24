@@ -2,9 +2,9 @@
 #define __STACK_H__
 
 //
-int stack_length;
+//int stack_length;
 
-
+/*Fn. push ehk me lisame stacki antud elemendi*/
 void stack_push(int elem);
 
 //Fn. stack_pop
